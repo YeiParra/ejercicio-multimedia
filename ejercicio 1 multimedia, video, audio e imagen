@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title> Ejerciio de multimedia </title>
+
+</head>
+
+<body>
+
+    <h1>Aprendiendo a utilizar imagenes</h1>
+    
+    <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2015/07/498010-analisis-god-war-iii-remasterizado-ps4.jpg?itok=HUqH_QQj " alt="videojuego favorito html" width="300" height="200">
+        
+    
+<br>
+<br>
+
+<h1>Aprendiendo a utilizar los juegos</h1>
+
+
+<video  controls muted autoplay loop  height="360" width="640">
+<source src="Peligro oficial.mp4" type="video/mp4" > 
+</video>
+
+
+<h1>Aprendiendo a utilizar los audios</h1>
+
+<audio controls   autoplay   loop>
+    <source src="Pista.wav" type="audio/wav">
+</audio>
+
+</body>
+
+
+</html>
